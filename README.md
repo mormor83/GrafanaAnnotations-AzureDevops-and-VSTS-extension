@@ -1,4 +1,4 @@
-# GrafanaAnnotations-AzureDevops-and-VSTS-extension
+# Grafana Annotations-AzureDevops-and-VSTS-extension
 
 **Summary**  
 Adding a Grafana annotations extensions for Azure Devops
