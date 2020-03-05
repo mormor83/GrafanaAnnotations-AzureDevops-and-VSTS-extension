@@ -5,7 +5,7 @@
     "icons": {
         "default": "img/extension.png"
     },
-    "version": "1.0.25",
+    "version": "1.0.0",
     "name": "Grafana Annotations",
     "description": "Adding a Grafana annotations extensions for Azure Devops",
     "public": false,
@@ -27,6 +27,16 @@
     "tags": [
         "Grafana"
     ],
+    "content": {
+      "details": {
+        "path": "README.md"
+      }
+    },
+    "links": {
+      "home": {
+        "uri": "https://github.com/mormor83/GrafanaAnnotations-AzureDevops-and-VSTS-extension"
+      }
+    },
     "scopes": [
         "vso.release","vso.serviceendpoint_query"
 ],
@@ -41,7 +51,7 @@
             "displayName": "Grafana server connection",
             "url": {
               "displayName": "Server Url",
-              "helpText": "Url for the Grafana server to connect to."
+              "helpText": "Url of the Grafana server to connect to."
             },
             "dataSources": [
                 {
