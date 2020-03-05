@@ -1,0 +1,20 @@
+{
+  "name": "grafana-annotations",
+  "version": "1.0.1",
+  "description": "Adding a Grafana annotations for azure devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mor Oknin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "azure-pipelines-task-lib": "^2.9.3",
+    "vso-task-lib": "^0.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "@types/q": "^1.5.2"
+  }
+}

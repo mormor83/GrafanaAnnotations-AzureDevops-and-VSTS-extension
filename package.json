@@ -1,0 +1,15 @@
+{
+  "name": "Grafana-azure-devops",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vss-web-extension-sdk": "^5.141.0"
+  }
+}
