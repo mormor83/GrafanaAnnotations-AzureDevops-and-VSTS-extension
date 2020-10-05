@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "grafana-annotations",
-    "publisher": "MorOknin",
+    "publisher": "payoneer",
     "icons": {
         "default": "img/extension.png"
     },
@@ -24,17 +24,13 @@
             "addressable": true
         }
     ],
-    "tags": [
-        "Grafana"
-    ],
+    "tags": [ "Grafana" , "Annotations" , "Metrics" , "Prometheus" , "Release" , "Build" , "Pipeline" ], 
+    "galleryFlags": [
+          "Public"
+      ],
     "content": {
       "details": {
         "path": "README.md"
-      }
-    },
-    "links": {
-      "home": {
-        "uri": "https://github.com/mormor83/GrafanaAnnotations-AzureDevops-and-VSTS-extension"
       }
     },
     "scopes": [

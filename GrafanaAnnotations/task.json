@@ -3,12 +3,12 @@
     "id": "c3a10e6d-b719-41d8-910a-d0ea7fd54c41",
     "name": "grafana-annotations",
     "friendlyName": "Grafana Annotations",
-    "description": "Add annotations to Grafana server",
-    "helpMarkDown": "",
+    "description": "Add annotations to Grafana server.",
+    "helpMarkDown": "See Extention [here](https://marketplace.visualstudio.com/items?itemName=Payoneer.grafana-annotations)",
     "category": "Deploy",
-    "author": "Mor Oknin",
+    "author": "Payoneer DevOps",
     "visibility": [
-		"Release"
+		"Release" , "Build"
     ],
     "demands": [],
     "version": {
