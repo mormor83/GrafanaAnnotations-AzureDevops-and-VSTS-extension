@@ -9,7 +9,7 @@
   "author": "Payoneer DevOps",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "azure-pipelines-task-lib": "^2.9.3",
     "vso-task-lib": "^0.5.5"
   },
